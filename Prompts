@@ -1,0 +1,11 @@
+
+QA Architech
+
+Use the qa-architect agent to review the project structure and recommend a QA strategy. Do not modify any files.
+
+Manual QA
+Use the manual-qa agent to review the existing tests and identify missing functional test scenarios. Do not modify files.
+
+Automation QA
+Use the automation-qa agent to review the Playwright tests for reliability and recommend improvements. Do not edit files yet.
+
